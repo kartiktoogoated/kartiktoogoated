@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kartikkkxdd" target="blank"><img src="https://img.shields.io/twitter/follow/kartikkkxdd?logo=twitter&style=for-the-badge" alt="kartikkkxdd" /></a> </p>
 
-- 🔭 I’m currently working on [Neighborly](https://github.com/kartiktoogoated/Neighborly)
+- 🔭 I’m currently working on [Investica](https://github.com/kartiktoogoated/Investica)
 
 - 📫 How to reach me **kartiktomar112233@gmail.com**
 
