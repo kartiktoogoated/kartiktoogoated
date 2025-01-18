@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a web developer passionate about creating dynamic and user-friendly web applications. I enjoy learning new technologies and am always looking to improve my skills.
+I’m a web developer passionate about creating dynamic and user-friendly web applications. I enjoy learning new technologies and am always looking to improve my skills
 
 
 ## 🌐 Socials:
